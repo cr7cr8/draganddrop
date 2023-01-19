@@ -1,1 +1,4 @@
-aaacc
+//go to previous comit, this will delete all the commits after the goto comits
+git checkout <branch-to-modify-head>
+git reset --hard <commit-hash-id-to-put-as-head>
+git push -f ​​​
