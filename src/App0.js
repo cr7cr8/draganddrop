@@ -16,7 +16,7 @@ const tasks = [
   { id: "5", content: "Fifth task" }
 ];
 
-const taskStatus = {
+const taskStatus = { 
   requested: {
     name: "Requested",
     items: tasks
