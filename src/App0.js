@@ -7,7 +7,7 @@ import React, { useState } from "react";
 
 import { DragDropContext, Draggable, Droppable } from "@hello-pangea/dnd";
 
-
+ 
 const tasks = [
   { id: "1", content: "First task" },
   { id: "2", content: "Second task" },
